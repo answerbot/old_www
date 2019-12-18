@@ -1,0 +1,16 @@
+$primary: #62CB9D;
+$secondary: #F45532;
+$black: #2f2f41;
+$white: #ffffff;
+$steel: rgb(92, 90, 90);
+$ghost: #f4f5fb;
+
+// Links
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-color: lighten($primary, 20%);
+$link-hover-decoration: underline;
+
+// Fonts
+$font-family-base: "MaisonNeue-Light", "Segoe UI", Helvetica, Arial, sans-serif;
+$font-family-heading: "MaisonNeue-Bold", "Segoe UI", Helvetica, Arial, sans-serif;
