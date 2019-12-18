@@ -115,3 +115,6 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+# Jetbrains
+.idea
