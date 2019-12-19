@@ -1,0 +1,24 @@
+.NavBar {
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+}
+.NavBar img {
+    width: 140;
+}
+.NavBarMenu {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.NavBarMenu ul {
+    vertical-align: middle;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.NavBarMenu li {
+    float: left;
+    padding: 0 20 0 0;
+}
+
