@@ -9,6 +9,11 @@ body {
 }
 
 @font-face {
+    font-family: MaisonNeue-Medium;
+    src: url("/fonts/MaisonNeue-Medium.otf");
+}
+
+@font-face {
     font-family: MaisonNeue-Bold;
     src: url("/fonts/MaisonNeue-Bold.otf");
 }
