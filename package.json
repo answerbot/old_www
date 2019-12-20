@@ -50,5 +50,8 @@
     "uglify-es": "^3.3.10"
   },
   "homepage": "https://bitbucket.org/pasqualevitiello/agnes#readme",
-  "main": ".eslintrc.js"
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
 }
