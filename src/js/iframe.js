@@ -216,6 +216,5 @@
     }
   }
 
-  console.log('adding custom element')
   window.customElements.define('x-frame-bypass', Iframe, { extends: 'iframe' })
 })()
