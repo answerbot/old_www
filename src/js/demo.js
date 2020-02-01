@@ -1,6 +1,6 @@
 if (window.location.pathname === '/demo/') {
   var urlParams = new URLSearchParams(window.location.search)
-  var accountId = urlParams.get('account_id')
+  var accountId = urlParams.get('account_id');
   (function () {
     window.onload = function () {
       const FrameElem = window.customElements.get('x-frame-bypass')
