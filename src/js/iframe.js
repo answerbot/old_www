@@ -26,7 +26,7 @@
       width: 50px;
       height: 50px;
       background-color: #333;
-      border-radius: 50%;  
+      border-radius: 50%;
       animation: loader 1s infinite ease-in-out;
   }
   @keyframes loader {
