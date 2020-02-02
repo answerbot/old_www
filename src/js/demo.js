@@ -1,6 +1,6 @@
 if (window.location.pathname === '/demo/') {
   var urlParams = new URLSearchParams(window.location.search)
-  var accountId = urlParams.get('account_id');
+  var accountId = urlParams.get('account_id')
   console.log(accountId);
   (function () {
     window.onload = function () {
