@@ -193,7 +193,7 @@
           type='text/javascript'
           account="${this.getAttribute('account')}"
           url='${url}'
-          src='https://jsdev.answerbot.app'
+          src='https://js.answerbot.app'
       ></script>
     <script>
     ${onclick}
